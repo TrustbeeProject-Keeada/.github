@@ -5,7 +5,7 @@ TrustBee is a modern **full-stack job platform** designed to connect **job seeke
 The system is built with a **scalable architecture**, using a clear separation between frontend and backend. The backend leverages **Prisma ORM** with **PostgreSQL** for data management, and the project uses **Docker** to ensure consistent development and deployment environments.
 
 <p align="left">
-<img src="./profile/trustbee.png" />
+<img src="../profile/trustbee.png" />
 </p>
 ---
 
