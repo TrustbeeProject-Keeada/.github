@@ -114,11 +114,3 @@ TrustBee is designed to support a **fair, inclusive, and professional recruitmen
 - Fairness, inclusivity, and responsible design are core principles guiding the development of TrustBee.
 
 ---
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/trustbee.git
-cd trustbee
