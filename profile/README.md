@@ -1,4 +1,4 @@
-## Welcome to TrustBee
+# Welcome to TrustBee
 
 TrustBee is a modern **full-stack job platform** designed to connect **job seekers** and **employers** through a clean, user-friendly, and intelligent digital experience. The platform simplifies the recruitment process by providing tools for job discovery, profile management, employer job posting, communication, and smart CV-to-job matchmaking.
 
